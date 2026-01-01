@@ -41,5 +41,5 @@ Styling: Tailwind CSS + CSS Modules for critical components
 Content: Markdown/MDX with gray-matter parsing
 Database: SQLite (development) / PostgreSQL (production)
 Search: Fuse.js (client-side) / PostgreSQL FTS (server-side)
-Deployment: Vercel with edge functions for global CDN
+Deployment: not yet 
 Performance: 95+ Lighthouse scores guaranteed
