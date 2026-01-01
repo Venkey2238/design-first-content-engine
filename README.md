@@ -5,7 +5,6 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue.svg)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.0+-38B2AC.svg)](https://tailwindcss.com/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-purple.svg)](https://openai.com/)
-[![Vercel](https://img.shields.io/badge/Vercel-Deployed-black.svg)](https://vercel.com)
 
 **A context-aware publishing platform that transforms how content is created, adapted, and distributed**  
 *From simple markdown to AI-powered multi-channel publishing*
